@@ -10,7 +10,7 @@ link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 git clone https://github.com/AlluringPixel/Deploy-Private-NFT
 ```
 ```bash
-cd swisstronik-deploy-private-nft
+cd Deploy-Private-NFT
 ```
 
 ### 2. Install Dependency
